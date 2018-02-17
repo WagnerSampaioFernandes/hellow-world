@@ -1,0 +1,97 @@
+
+
+RH
+
+Cargos: Analista de Processos
+04/12 - Verificar com o RH se o processo necessita de alguma nova interveção, descobrir a data de inicio da candidata.
+
+Cargos: Analista de Ponto de Função
+04/12 - Tomar a decisão da vaga
+
+Fernando Carneiro - 	Atual: R$ 9.600,00	Pretensão: R$10.000,00
+Geovanni Burlim -	Atual: R$ 8.000,00 	Pretensão: R$ 9.000,00
+Denis Aparecido - 	Atual: Não informado	Pretensão: R$ 7.000,00
+Aline Cristini -    	Atual: Desempregada	Pretensão: R$ 7.000,00
+
+
+Cargos: Desenvolvedor UX
+04/12 - Entrevistar o último candidato e tomar a decisão de contratação.
+Budget: 6,0 - CLT 4,8 + BE 1,2
+
+Cargos: Desenvolvedor Mobile
+04/12 - Entrevistar os candidatos e tomar a decisão de contratação.
+Budget: 7,5 - CLT 6,0 + BE 1,5
+
+Cargos: Coordenador SSA
+09/12 - Verificar o fechamento da vaga
+Budget: 9,0 - CLT 7,5 + BE 1,5
+
+Cargos: Auxiliar de limpeza
+04/12 - Providênciar a entrada na PM 
+Budget: 1,2 - CLT 1,2
+
+
+GESTÃO
+- Regularizar a situação das vagas abertas
+- Estudar o plano de ação para o projeto de modernização do TMD ( Verificar a posibilidade de atrelar o PF ao trabalho contratado)
+- Estudar a equipe que conduzirá o 1o piloto do SCRUM ( ver desenv. Genexus e Anal. Requisitos )
+
+
+GERSON
+- Apresentar o resultado das iniciativas:
+  a. Estrutura do TFS
+  b. Estudo das demandas
+  
+
+DELFRARO
+- Radar na pendência do Sistema Ambiental e envolver o Ten Jefesserson ainda pela manhã.
+- Recuperar o histórico do sistema SADE, passadas pelo Jerônimo por email, e traçar um plano de ação.
+- Fazer um ponto de controle no final do dia, passando o status dos projetos em andamento.
+- Verificar a possibilidade do Diogo ajudar na solução dos Bugs e liberar a equipe para atuar na Ambiental
+
+
+Iniciativas
+- Identificar a quantidade de Boletim de Ocorrência solicitados no Portal de Internet 
+Envolvidos: Valmir / Aline / Sérgio Navarro
+Data Entrega: 06/12/2017
+
+- BOPM-TCO Web
+Envolvidos: Equipe desenvolvedores / Testes
+Data Entrega: 06/12/2017
+
+- Ambiental no TCO
+Envolvidos: Amanda, Equipe
+Data Entrega: 08/12/2017
+
+
+
+
+EDUARDO
+- Verificar o andamento dos chamados/incidentes passados pelo Pedro e trazer ao meu conhecimento um plano de ação para solução.
+
+
+
+RH
+- Quais as pendências (RRHs, etc..) para as vagas pesquisadas ?
+- O Fernando (APF) aceitou as condições da vaga ?
+- O Camisão aceitou as condições da vaga ?
+
+
+CAP TAMASHIRO
+- Entregar notas fiscais e cartas para faturamento.
+
+
+MARISA
+- Verba para festa de final de ano na PM
+Como ficou o tratamento deste assunto com a PM ?
+Quando será divulgado para os colaboradores ?   
+
+- Vaga de Coordenador da SSA
+Quando tomaremos a decisão de quem será efetivado ?
+
+- Informar que a PM não possui formas de atualizar o TFS e traçar estratégia (comprar ou manter licenças atuais) ?  
+
+- Sistema de Demandas ( JIRA )
+Verificar quem será nosso ponto de apoio para implantar ferramenta ?
+
+
