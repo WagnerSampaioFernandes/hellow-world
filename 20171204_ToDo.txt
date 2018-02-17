@@ -2,24 +2,26 @@
 
 RH
 
+AGORA EU MUDEI ESTA BAGA√áA
+
 Cargos: Analista de Processos
-04/12 - Verificar com o RH se o processo necessita de alguma nova interveÁ„o, descobrir a data de inicio da candidata.
+04/12 - Verificar com o RH se o processo necessita de alguma nova interve√ß√£o, descobrir a data de inicio da candidata.
 
-Cargos: Analista de Ponto de FunÁ„o
-04/12 - Tomar a decis„o da vaga
+Cargos: Analista de Ponto de Fun√ß√£o
+04/12 - Tomar a decis√£o da vaga
 
-Fernando Carneiro - 	Atual: R$ 9.600,00	Pretens„o: R$10.000,00
-Geovanni Burlim -	Atual: R$ 8.000,00 	Pretens„o: R$ 9.000,00
-Denis Aparecido - 	Atual: N„o informado	Pretens„o: R$ 7.000,00
-Aline Cristini -    	Atual: Desempregada	Pretens„o: R$ 7.000,00
+Fernando Carneiro - 	Atual: R$ 9.600,00	Pretens√£o: R$10.000,00
+Geovanni Burlim -	Atual: R$ 8.000,00 	Pretens√£o: R$ 9.000,00
+Denis Aparecido - 	Atual: N√£o informado	Pretens√£o: R$ 7.000,00
+Aline Cristini -    	Atual: Desempregada	Pretens√£o: R$ 7.000,00
 
 
 Cargos: Desenvolvedor UX
-04/12 - Entrevistar o ˙ltimo candidato e tomar a decis„o de contrataÁ„o.
+04/12 - Entrevistar o √∫ltimo candidato e tomar a decis√£o de contrata√ß√£o.
 Budget: 6,0 - CLT 4,8 + BE 1,2
 
 Cargos: Desenvolvedor Mobile
-04/12 - Entrevistar os candidatos e tomar a decis„o de contrataÁ„o.
+04/12 - Entrevistar os candidatos e tomar a decis√£o de contrata√ß√£o.
 Budget: 7,5 - CLT 6,0 + BE 1,5
 
 Cargos: Coordenador SSA
@@ -27,14 +29,14 @@ Cargos: Coordenador SSA
 Budget: 9,0 - CLT 7,5 + BE 1,5
 
 Cargos: Auxiliar de limpeza
-04/12 - ProvidÍnciar a entrada na PM 
+04/12 - Provid√™nciar a entrada na PM 
 Budget: 1,2 - CLT 1,2
 
 
-GEST√O
-- Regularizar a situaÁ„o das vagas abertas
-- Estudar o plano de aÁ„o para o projeto de modernizaÁ„o do TMD ( Verificar a posibilidade de atrelar o PF ao trabalho contratado)
-- Estudar a equipe que conduzir· o 1o piloto do SCRUM ( ver desenv. Genexus e Anal. Requisitos )
+GEST√ÉO
+- Regularizar a situa√ß√£o das vagas abertas
+- Estudar o plano de a√ß√£o para o projeto de moderniza√ß√£o do TMD ( Verificar a posibilidade de atrelar o PF ao trabalho contratado)
+- Estudar a equipe que conduzir√° o 1o piloto do SCRUM ( ver desenv. Genexus e Anal. Requisitos )
 
 
 GERSON
@@ -44,15 +46,15 @@ GERSON
   
 
 DELFRARO
-- Radar na pendÍncia do Sistema Ambiental e envolver o Ten Jefesserson ainda pela manh„.
-- Recuperar o histÛrico do sistema SADE, passadas pelo JerÙnimo por email, e traÁar um plano de aÁ„o.
+- Radar na pend√™ncia do Sistema Ambiental e envolver o Ten Jefesserson ainda pela manh√£.
+- Recuperar o hist√≥rico do sistema SADE, passadas pelo Jer√¥nimo por email, e tra√ßar um plano de a√ß√£o.
 - Fazer um ponto de controle no final do dia, passando o status dos projetos em andamento.
-- Verificar a possibilidade do Diogo ajudar na soluÁ„o dos Bugs e liberar a equipe para atuar na Ambiental
+- Verificar a possibilidade do Diogo ajudar na solu√ß√£o dos Bugs e liberar a equipe para atuar na Ambiental
 
 
 Iniciativas
-- Identificar a quantidade de Boletim de OcorrÍncia solicitados no Portal de Internet 
-Envolvidos: Valmir / Aline / SÈrgio Navarro
+- Identificar a quantidade de Boletim de Ocorr√™ncia solicitados no Portal de Internet 
+Envolvidos: Valmir / Aline / S√©rgio Navarro
 Data Entrega: 06/12/2017
 
 - BOPM-TCO Web
@@ -67,14 +69,14 @@ Data Entrega: 08/12/2017
 
 
 EDUARDO
-- Verificar o andamento dos chamados/incidentes passados pelo Pedro e trazer ao meu conhecimento um plano de aÁ„o para soluÁ„o.
+- Verificar o andamento dos chamados/incidentes passados pelo Pedro e trazer ao meu conhecimento um plano de a√ß√£o para solu√ß√£o.
 
 
 
 RH
-- Quais as pendÍncias (RRHs, etc..) para as vagas pesquisadas ?
-- O Fernando (APF) aceitou as condiÁıes da vaga ?
-- O Camis„o aceitou as condiÁıes da vaga ?
+- Quais as pend√™ncias (RRHs, etc..) para as vagas pesquisadas ?
+- O Fernando (APF) aceitou as condi√ß√µes da vaga ?
+- O Camis√£o aceitou as condi√ß√µes da vaga ?
 
 
 CAP TAMASHIRO
@@ -84,14 +86,14 @@ CAP TAMASHIRO
 MARISA
 - Verba para festa de final de ano na PM
 Como ficou o tratamento deste assunto com a PM ?
-Quando ser· divulgado para os colaboradores ?   
+Quando ser√° divulgado para os colaboradores ?   
 
 - Vaga de Coordenador da SSA
-Quando tomaremos a decis„o de quem ser· efetivado ?
+Quando tomaremos a decis√£o de quem ser√° efetivado ?
 
-- Informar que a PM n„o possui formas de atualizar o TFS e traÁar estratÈgia (comprar ou manter licenÁas atuais) ?  
+- Informar que a PM n√£o possui formas de atualizar o TFS e tra√ßar estrat√©gia (comprar ou manter licen√ßas atuais) ?  
 
 - Sistema de Demandas ( JIRA )
-Verificar quem ser· nosso ponto de apoio para implantar ferramenta ?
+Verificar quem ser√° nosso ponto de apoio para implantar ferramenta ?
 
 
